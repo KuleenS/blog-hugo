@@ -1,7 +1,7 @@
 baseURL = 'https://KuleenS.github.io/blog-hugo'
 languageCode = 'en-us'
-title = 'blog'
-theme = 'stack'
+title = 'A Little of Everything'
+theme = 'papermod'
 
 [params]
   author = "Kuleen Sasse"
